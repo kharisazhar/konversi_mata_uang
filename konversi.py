@@ -33,6 +33,9 @@ while (raw_input("ketik [Y/N] untuk lanjut :") == vinput):
         print rupiah.formatrupiah(jml), " = $", idrtousd(jml)
     elif (jawab == 3):
         vinput == "N"
+
     else:
         vinput == "N"
 print "Terimakasih"
+
+
